@@ -10,7 +10,7 @@ redirect_from:
 I am a fifth year Ph.D. student in the [Exoteric Group](https://exoteric-lab.com/) at [Arizona State University](http://asu.edu/)'s [School of Earth and Space Exploration](https://sese.asu.edu/), where I study exoplanet atmospheres. Previously, I was an undergraduate at the [University of Maryland](https://www.astro.umd.edu/). I'm interested in exoplanetary atmospheric composition, what it tells us about their history, and how we can apply our modeling techniques in new and fun ways. When I'm not thinking about exoplanets, I'm usually playing trombone, running a D&D campaign, watching movies, baking something, or complaining about the Baltimore Ravens.
 
 
-Getting started
+What I'm working on
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
@@ -19,7 +19,7 @@ Getting started
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
+What I've worked on in the past
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
